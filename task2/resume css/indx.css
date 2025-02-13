@@ -1,0 +1,26 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(206, 192, 66, 0.607);
+    color: #000000;
+    
+}
+h1{
+    background-color: grey;
+    border-radius: 10px;
+    text-decoration: 2px underline white;
+    text-transform: capitalize;
+}
+
+h2{
+    color: black;
+    background-color: gray;
+    border-radius: 10px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+span{
+    text-decoration: underline;
+}
+b{
+    text-decoration: 1px underline rgb(5, 5, 5);
+}
